@@ -37,3 +37,19 @@ Developed an interactive dashboard using Microsoft Excel and Power Query to auto
 ## 📈 Result
 
 The dashboard provides a clearer view of operational performance through KPIs, charts and indicators, supporting better analysis and decision-making.
+
+---
+
+## 🛠 Technologies
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Power%20Query-6B4F3A?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/VBA-DCCBB5?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Data%20Analysis-3E2F24?style=for-the-badge"/>
+
+</div>
