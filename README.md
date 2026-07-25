@@ -49,9 +49,6 @@ The dashboard provides a clearer overview of operational performance, helping us
 
 ---
 
----
----
-
 ## ✨ Features
 
 - Interactive dashboard
