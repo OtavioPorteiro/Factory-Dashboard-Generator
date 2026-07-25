@@ -49,6 +49,8 @@ The dashboard provides a clearer overview of operational performance, helping us
 
 ---
 
+---
+
 ## 🛠 Technologies
 
 <div align="center">
@@ -66,3 +68,14 @@ The dashboard provides a clearer overview of operational performance, helping us
 ---
 
 ## 📂 Project Structure
+
+```text
+Factory-Dashboard-Generator
+
+│
+├── Images
+│   └── dashboard-preview.png
+│
+├── Documentation
+│
+├── README.mducture
