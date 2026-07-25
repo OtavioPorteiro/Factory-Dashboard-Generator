@@ -88,3 +88,32 @@ Factory-Dashboard-Generator
 │
 └── README.md
 ```
+
+## 🚀 Future Improvements
+
+- 🔄 Integração com Power BI para análises mais avançadas.
+- 📊 Criação de novos indicadores e métricas de desempenho.
+- 🤖 Automação completa da atualização dos dados.
+- 🌐 Desenvolvimento de uma versão web para acesso online.
+- 🎨 Melhorias na interface e experiência do usuário.
+- 📱 Possível adaptação para dispositivos móveis.
+
+
+## 👨‍💻 Author
+
+**Otávio Porteiro**  
+Excel Developer | Jovem Aprendiz  
+
+📌 Desenvolvedor de soluções utilizando:
+- Microsoft Excel
+- VBA
+- Power Query
+- Dashboards
+- Automação de processos
+
+🔗 LinkedIn: [Otávio Porteiro](SEU_LINK_DO_LINKEDIN)  
+🔗 GitHub: [portfolio-otavio](SEU_LINK_DO_GITHUB)
+
+---
+
+⭐ Desenvolvido com foco em produtividade, organização de dados e melhoria contínua de processos.
