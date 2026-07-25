@@ -71,11 +71,11 @@ The dashboard provides a clearer overview of operational performance, helping us
 
 ```text
 Factory-Dashboard-Generator
-
 │
 ├── Images
 │   └── dashboard-preview.png
 │
 ├── Documentation
 │
-├── README.mducture
+└── README.md
+```
