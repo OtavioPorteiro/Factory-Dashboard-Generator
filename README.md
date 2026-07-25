@@ -8,35 +8,44 @@
 
 ## 📌 About
 
-Factory Dashboard Generator is an industrial dashboard project developed using Microsoft Excel and Power Query.
+Factory Dashboard Generator is an industrial data analysis project developed using Microsoft Excel and Power Query.
 
-The project transforms raw production data into interactive visualizations and performance indicators, helping to analyze operational results and support decision-making.
+The project was created to transform production data into interactive dashboards, allowing better visualization of operational performance, losses and key indicators.
 
 ---
 
 ## 🎯 Objective
 
-The main goal is to simplify data analysis by automating information consolidation and creating a clear view of production performance.
+The main objective is to simplify the analysis process by automating data preparation and creating a centralized view of important production metrics.
 
 ---
 
 ## 🚧 Problem
 
-Production data analysis can become a time-consuming process when information is spread across different sources and requires manual consolidation.
+Production information often requires manual consolidation from different sources, making analysis slower and increasing the possibility of errors.
 
-This project was created to improve data organization and provide faster access to important performance indicators.
+The challenge was to create a solution capable of organizing data and providing faster access to reliable information.
 
 ---
 
 ## 💡 Solution
 
-Developed an interactive dashboard using Microsoft Excel and Power Query to automate data preparation, consolidate information and transform raw data into visual insights.
+An interactive dashboard was developed using Excel and Power Query to automate data transformation, consolidate information and generate visual insights.
+
+The solution includes:
+
+- Automatic data consolidation
+- KPI monitoring
+- Production performance analysis
+- Loss indicators
+- Machine performance visualization
+- Interactive filters
 
 ---
 
 ## 📈 Result
 
-The dashboard provides a clearer view of operational performance through KPIs, charts and indicators, supporting better analysis and decision-making.
+The dashboard provides a clearer overview of operational performance, helping users identify trends, monitor indicators and support data-driven decisions.
 
 ---
 
@@ -48,8 +57,12 @@ The dashboard provides a clearer view of operational performance through KPIs, c
 
 <img src="https://img.shields.io/badge/Power%20Query-6B4F3A?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/VBA-DCCBB5?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Pivot%20Tables-DCCBB5?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Data%20Analysis-3E2F24?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data%20Visualization-3E2F24?style=for-the-badge"/>
 
 </div>
+
+---
+
+## 📂 Project Structure
