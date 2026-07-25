@@ -20,36 +20,20 @@ The main goal is to simplify data analysis by automating information consolidati
 
 ---
 
-## ✨ Features
+## 🚧 Problem
 
-- Interactive dashboard
-- KPI monitoring
-- Production analysis
-- Loss analysis
-- Machine performance visualization
-- Data consolidation using Power Query
+Production data analysis can become a time-consuming process when information is spread across different sources and requires manual consolidation.
+
+This project was created to improve data organization and provide faster access to important performance indicators.
 
 ---
 
-## 🛠 Technologies
+## 💡 Solution
 
-- Microsoft Excel
-- Power Query
-- Pivot Tables
-- Data Visualization
+Developed an interactive dashboard using Microsoft Excel and Power Query to automate data preparation, consolidate information and transform raw data into visual insights.
 
 ---
 
-## 📈 Dashboard Preview
+## 📈 Result
 
-<p align="center">
-  <img src="Images/dashboard-preview.png" width="100%">
-</p>
-
----
-
-## 👨‍💻 Author
-
-**Otávio Porteiro**
-
-Excel Developer | VBA | Power Query | Dashboards
+The dashboard provides a clearer view of operational performance through KPIs, charts and indicators, supporting better analysis and decision-making.
