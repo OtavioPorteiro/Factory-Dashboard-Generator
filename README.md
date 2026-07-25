@@ -50,6 +50,16 @@ The dashboard provides a clearer overview of operational performance, helping us
 ---
 
 ---
+---
+
+## ✨ Features
+
+- Interactive dashboard
+- Production performance analysis
+- KPI monitoring
+- Loss indicators
+- Machine performance visualization
+- Data consolidation with Power Query
 
 ## 🛠 Technologies
 
