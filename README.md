@@ -58,6 +58,8 @@ The dashboard provides a clearer overview of operational performance, helping us
 - Machine performance visualization
 - Data consolidation with Power Query
 
+---
+
 ## 🛠 Technologies
 
 <div align="center">
