@@ -1,2 +1,1 @@
-# Factory-Dashboard-Generator
-A aplicação foi criada com foco em ambientes de manufatura, especialmente para acompanhamento de indicadores de produção, análise de perdas e identificação de máquinas críticas por meio do gráfico de Pareto.
+Industrial dashboard developed with Excel, Power Query and data analysis techniques to transform production data into actionable insights.
