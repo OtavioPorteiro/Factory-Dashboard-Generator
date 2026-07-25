@@ -111,8 +111,8 @@ Excel Developer | Jovem Aprendiz
 - Dashboards
 - Automação de processos
 
-🔗 LinkedIn: [Otávio Porteiro](SEU_LINK_DO_LINKEDIN)  
-🔗 GitHub: [portfolio-otavio](SEU_LINK_DO_GITHUB)
+🔗 LinkedIn: [Otávio Porteiro](https://www.linkedin.com/in/otavioporteiro)  
+🔗 GitHub: [portfolio-otavio](https://github.com/OtavioPorteiro)
 
 ---
 
